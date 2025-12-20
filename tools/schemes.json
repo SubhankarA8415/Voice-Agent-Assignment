@@ -1,0 +1,29 @@
+[
+  {
+    "scheme_name": "PM Awas Yojana",
+    "criteria": {
+      "income_max": 300000,
+      "housing_status": "homeless"
+    },
+    "benefits": "ବାସଗୃହ ନିର୍ମାଣ ପାଇଁ ଆର୍ଥିକ ସହାୟତା",
+    "apply_steps": "ନିକଟତମ CSC କେନ୍ଦ୍ର କିମ୍ବା pmay.gov.in ମାଧ୍ୟମରେ ଆବେଦନ କରନ୍ତୁ"
+  },
+  {
+    "scheme_name": "PM Ujjwala Yojana",
+    "criteria": {
+      "gender": "female",
+      "bpl": true
+    },
+    "benefits": "ମୁଫ୍ତ LPG ଗ୍ୟାସ ସଂଯୋଗ",
+    "apply_steps": "ନିକଟତମ LPG ବିତରକଙ୍କ ପାଖରେ ଆବେଦନ କରନ୍ତୁ"
+  },
+  {
+    "scheme_name": "Old Age Pension Scheme",
+    "criteria": {
+      "age_min": 60,
+      "income_max": 200000
+    },
+    "benefits": "ମାସିକ ପେନ୍ସନ ସହାୟତା",
+    "apply_steps": "ରାଜ୍ୟ ସରକାର ପୋର୍ଟାଲ୍ କିମ୍ବା ବ୍ଲକ୍ ଅଫିସ୍ ମାଧ୍ୟମରେ ଆବେଦନ କରନ୍ତୁ"
+  }
+]
