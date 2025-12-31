@@ -202,16 +202,6 @@ All schemes are defined in `tools/schemes.json` and can be extended easily.
 
 ---
 
-## 🎥 Demo
-
-A complete demo video recorded using **Loom** demonstrates: (<a href="https://www.loom.com/share/9fecb795423d47598972a6a735d5f676">Link</a>)
-- Voice interaction  
-- Confirmation loop  
-- Agent lifecycle  
-- Scheme recommendation  
-
----
-
 ## 🔮 Future Improvements
 
 - Native Odia speech-to-text  
@@ -232,3 +222,4 @@ Final Year **B.Tech Computer Science**
 ## 📄 License
 
 This project is intended for **educational and evaluation purposes only**.
+
