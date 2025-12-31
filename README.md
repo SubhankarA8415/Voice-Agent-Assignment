@@ -215,11 +215,14 @@ All schemes are defined in `tools/schemes.json` and can be extended easily.
 ## 👤 Author
 
 **Subhankar Pandit**  
-Final Year **B.Tech Computer Science**  
+**Full Stack Developer | Backend Engineer | AI/ML | Cloud**  
+**GitHub**: https://github.com/SubhankarA8415  
+**LinkedIn**: https://linkedin.com/in/subhankar-pandit 
 
 ---
 
 ## 📄 License
 
 This project is intended for **educational and evaluation purposes only**.
+
 
