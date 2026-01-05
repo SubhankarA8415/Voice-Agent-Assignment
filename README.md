@@ -326,28 +326,6 @@ The system meets all functional and non-functional requirements specified in the
 
 ---
 
-## 📏 Evaluation Criteria
-
-- Functional correctness  
-- Robust error handling  
-- Explainability  
-- Agentic design quality  
-- User experience  
-
----
-
-## ✅ Evaluation Summary
-
-| Criterion            | Result |
-|----------------------|--------|
-| End-to-End Flow      | Passed |
-| Error Handling       | Passed |
-| Edge Case Handling   | Passed |
-| Explainability       | Passed |
-| Production Readiness | High   |
-
----
-
 ## 🔮 Future Improvements
 
 - Native Odia speech-to-text  
@@ -370,6 +348,7 @@ The system meets all functional and non-functional requirements specified in the
 ## 📄 License
 
 This project is intended for **educational and evaluation purposes only**.
+
 
 
 
